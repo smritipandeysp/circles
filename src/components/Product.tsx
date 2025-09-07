@@ -162,7 +162,7 @@ const Product: React.FC<Props> = ({
             className="box-border w-full max-w-full flex items-center justify-center gap-2 rounded-[12px] bg-[#111827] py-[10px] text-[14px] font-medium text-white whitespace-nowrap overflow-hidden text-ellipsis"
           >
             <span className="inline-flex h-4 w-4 items-center justify-center">
-              <img src={addToCart} alt="" className="max-h-full max-w-full object-contain" />
+              <img src={addToCart} alt="" className="h-[20px] w-[20px] object-contain" />
             </span>
             เพิ่มไปยังรถเข็น
           </button>
